@@ -1,0 +1,149 @@
+body {
+  
+  margin: 0;
+  padding: 0;
+  font-family: arial black;
+  text-decoration: none;
+  background-image: url("");
+  background-color: #000;
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /*nav*/
+
+
+}
+
+.logotype {
+  margin-left: 60px;
+  margin-top: 10px;
+
+}
+
+a {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 4vw;
+
+
+}
+
+
+li {
+  padding-left: 3%;
+  text-align: center;
+  font-size: vw;
+  display: inline;
+}
+
+
+/*biography*/
+
+.biography {
+  margin-top: 1200px;
+  padding: 2%;
+  color: #FFF;
+    
+}
+
+.bio_text {
+  margin-top: 6%;
+  margin-left: 2%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFF;
+  font-size: 93px;
+
+}
+
+
+p {
+  margin: 4%;
+  font-family: arial;
+  font-size: 44px;
+  text-align: justify;
+  }
+
+.avlogo2 {
+  text-align: center;
+
+}
+
+.avlogo3 {
+
+
+ 
+}
+
+
+.bckbutton {
+padding: 50px;
+height: 30%;  
+text-align: center;
+border: 2px;
+border-style: solid;
+border-color: white;
+
+
+}
+
+/*discography*/
+
+.discography {
+ width: 100%;
+ height: 1400px;
+ text-align: center;
+ background-color: #FFF;
+
+}
+
+.discography_h2 {
+  margin-top: 150px;
+  font-size: 93px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #7f7271;
+
+}
+
+.disko {
+  font-size: 30px;
+  color: #000;
+  text-align: center;
+}
+
+/*contact*/
+
+
+.contact {
+ width: 100%;
+ height: 1200px;
+
+}
+
+.contact_h2 {
+ margin-top: 20px;
+ margin-left: 12px;
+ text-align: center;
+ font-size: 123px;
+ text-transform: uppercase;
+ color: #FFF;
+}
+ 
+.bckbutton2 {
+  padding: 50px;
+  text-align: center;
+  border: 2px;
+  border-style: solid;
+  border-color: white;
+
+
+
+ 
+}
+
+
+
+
